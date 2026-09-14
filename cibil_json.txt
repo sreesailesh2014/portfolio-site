@@ -1,0 +1,41 @@
+{
+  "cibilReport": {
+    "reportDate": "2026-09-14",
+    "score": 745,
+    "personalInfo": {
+      "name": "Sreesailesh Kumar",
+      "dob": "1990-05-12",
+      "pan": "ABCDE1234F",
+      "address": "Chennai, Tamil Nadu, India"
+    },
+    "tradelines": [
+      {
+        "accountNumber": "LN0012345",
+        "type": "Personal Loan",
+        "institution": "HDFC Bank",
+        "openedDate": "2022-01-15",
+        "currentBalance": 150000,
+        "sanctionedAmount": 300000,
+        "status": "Active",
+        "paymentHistory": ["OK", "OK", "OK", "DPD30", "OK"]
+      },
+      {
+        "accountNumber": "CC987654",
+        "type": "Credit Card",
+        "institution": "ICICI Bank",
+        "openedDate": "2021-07-10",
+        "currentBalance": 25000,
+        "creditLimit": 100000,
+        "status": "Active",
+        "paymentHistory": ["OK", "OK", "OK", "OK", "OK"]
+      }
+    ],
+    "inquiries": [
+      {
+        "date": "2023-05-20",
+        "institution": "Axis Bank",
+        "purpose": "Credit Card Application"
+      }
+    ]
+  }
+}
